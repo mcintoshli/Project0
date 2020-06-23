@@ -1,0 +1,44 @@
+nav > * {
+    padding: 20px;
+}
+
+body{
+    width:50%;
+    text-align:center;
+    margin:auto;
+}
+
+nav {
+    background-color: lightblue;
+    padding-top:10px;
+}
+
+html {
+    background-color: #326da8;
+}
+
+.habitat{
+    background-color:lightblue;
+    overflow:hidden;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.img-right{
+    float:right;
+    margin-right:20px;
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+.habitat p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
